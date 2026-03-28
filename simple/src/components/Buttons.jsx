@@ -10,7 +10,7 @@ const Buttons =()=> {
    const hendelRight =(EO)=> {
     
     const maxLeft =400;
-    const maxTop =-300;
+    const maxTop =-200;
     const maxBottom =200;
     EO.target.style.left = Math.random() * maxLeft - maxLeft/2 + 'px';
     EO.target.style.top = Math.random() * maxTop + 'px';

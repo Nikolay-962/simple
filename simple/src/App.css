@@ -18,6 +18,7 @@
 h1 {
   margin: 0;
   font-size: 2.5em;
+  color: #6f381c;
 }
 
 
@@ -33,4 +34,5 @@ h1 {
 .text {
   font-size: 4em;
   text-align: center;
+  color: red;
 }
