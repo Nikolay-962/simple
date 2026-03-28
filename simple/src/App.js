@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <div className='smile__wrap'>
-      <h1> как вам зарплата</h1>
+      <h1>Нравится ли вам зарплата?</h1>
       <div className= "text" id='one'></div>
       <Buttons/>
       </div>
