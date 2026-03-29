@@ -25,7 +25,7 @@ const Buttons =()=> {
               <button onMouseDown={hendelLeft} className='button'>Да</button>
             
           
-              <button  onMouseDown={hendelRight}  className='button '>Нет</button>
+              <button  onMouseOver={hendelRight}  className='button '>Нет</button>
                   
           </div>
         </div> 
